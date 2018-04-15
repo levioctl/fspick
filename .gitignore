@@ -1,0 +1,6 @@
+*.pyc
+AUTHORS
+ChangeLog
+build/
+*.egg-info/
+
